@@ -3418,8 +3418,8 @@ Content being reported:
   <phrase title="save_option_group" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Save Option Group]]></phrase>
   <phrase title="save_page" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[حفظ الصفحه]]></phrase>
   <phrase title="save_permission" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[حفظ]]></phrase>
-  <phrase title="save_permission_group" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Save Permission Group]]></phrase>
-  <phrase title="save_permission_interface_group" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Save Permission Interface Group]]></phrase>
+  <phrase title="save_permission_group" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[حفظ صلاحيات المجموعة]]></phrase>
+  <phrase title="save_permission_interface_group" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[حفظ صلاحيات الواجهة للمجموعة]]></phrase>
   <phrase title="save_phrase" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[حفظ العبارة]]></phrase>
   <phrase title="save_prefix" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Save Prefix]]></phrase>
   <phrase title="save_promotion" addon_id="XenForo" version_id="1010031" version_string="1.1.0 Beta 1"><![CDATA[حفظ الترقية]]></phrase>
