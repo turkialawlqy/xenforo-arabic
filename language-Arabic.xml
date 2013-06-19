@@ -19,7 +19,7 @@
   <phrase title="access_to_facebook_account_denied" addon_id="XenForo" version_id="1010031" version_string="1.1.0 Beta 1"><![CDATA[تم رفض الوصول إلى حساب الفيسبوك الخاص بك. الرجاء التأكد من أن لديك ترخيص وموافقة بوصل التطبيق لبياناتك.]]></phrase>
   <phrase title="account_confirmation_ip" addon_id="XenForo" version_id="1000270" version_string="1.0.2"><![CDATA[تأكيد حساب عنوان الاي بي]]></phrase>
   <phrase title="account_name_description" addon_id="XenForo" version_id="1020031" version_string="1.2.0 Beta 1"><![CDATA[وصف اسم الحساب]]></phrase>
-  <phrase title="account_upgrade" addon_id="XenForo" version_id="1000170" version_string="1.0.1"><![CDATA[Account Upgrade]]></phrase>
+  <phrase title="account_upgrade" addon_id="XenForo" version_id="1000170" version_string="1.0.1"><![CDATA[ترقية الحساب]]></phrase>
   <phrase title="account_upgrades" addon_id="XenForo" version_id="1020031" version_string="1.2.0 Beta 1"><![CDATA[ترقية الحساب]]></phrase>
   <phrase title="account_upgrade_purchased" addon_id="XenForo" version_id="1020031" version_string="1.2.0 Beta 1"><![CDATA[لشراء ترقية الحساب]]></phrase>
   <phrase title="achievements" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[المهام المنجزة]]></phrase>
