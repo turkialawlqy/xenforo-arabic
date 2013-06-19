@@ -1,0 +1,4 @@
+xenforo-arabic
+==============
+
+translate xenForo
