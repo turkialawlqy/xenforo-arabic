@@ -1,4 +1,7 @@
-xenforo-arabic
+مشروع ترجمة xenForo
 ==============
 
-translate xenForo
+هذا المشروع برعاية معهد xenForo العربي
+http://www.xf-ar.com/
+
+تم البدأ بالمشروع في تاريخ : 10/08/1434هـ
