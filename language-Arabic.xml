@@ -3794,7 +3794,7 @@ Primarily, it is used for text styling, which is inherited by almost all other e
   <phrase title="style_property_categoryStrip_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Category Strip]]></phrase>
   <phrase title="style_property_contentBackground_description_master" addon_id="XenForo" version_id="1000013" version_string="1.0.0 Alpha 3"><![CDATA[Main page background color]]></phrase>
   <phrase title="style_property_contentBackground_master" addon_id="XenForo" version_id="1010070" version_string="1.1.0"><![CDATA[خلفية المحتوى]]></phrase>
-  <phrase title="style_property_contentText_description_master" addon_id="XenForo" version_id="1000013" version_string="1.0.0 Alpha 3"><![CDATA[Main text color]]></phrase>
+  <phrase title="style_property_contentText_description_master" addon_id="XenForo" version_id="1000013" version_string="1.0.0 Alpha 3"><![CDATA[لون الخط الاساسي]]></phrase>
   <phrase title="style_property_contentText_master" addon_id="XenForo" version_id="1010070" version_string="1.1.0"><![CDATA[نص المحتوى]]></phrase>
   <phrase title="style_property_contentWidth_admin" addon_id="XenForo" version_id="1010031" version_string="1.1.0 Beta 1"><![CDATA[عرض المحتوى]]></phrase>
   <phrase title="style_property_contentWidth_description_admin" addon_id="XenForo" version_id="1000013" version_string="1.0.0 Alpha 3"><![CDATA[]]></phrase>
