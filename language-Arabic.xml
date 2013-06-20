@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <language title="Arabic" date_format="j M Y" time_format="H:i" decimal_point="." thousands_separator="," language_code="ar-AR" text_direction="RTL" addon_id="XenForo">
   <phrase title="1_day_ago" addon_id="XenForo" version_id="1010170" version_string="1.1.1"><![CDATA[منذ يوم مضى]]></phrase>
   <phrase title="1_month_ago" addon_id="XenForo" version_id="1010031" version_string="1.1.0 Beta 1"><![CDATA[منذ شهر مضى]]></phrase>
@@ -16,7 +16,7 @@
   <phrase title="accepted_file_types" addon_id="XenForo" version_id="1010031" version_string="1.1.0 Beta 1"><![CDATA[أنواع الملفات المقبولة]]></phrase>
   <phrase title="accept_conversations_from" addon_id="XenForo" version_id="1010031" version_string="1.1.0 Beta 1"><![CDATA[قبول الرسائل الخاصة من]]></phrase>
   <phrase title="accept_future_messages" addon_id="XenForo" version_id="1010031" version_string="1.1.0 Beta 1"><![CDATA[قبول الرسائل في المستقبل]]></phrase>
-  <phrase title="access_to_facebook_account_denied" addon_id="XenForo" version_id="1010031" version_string="1.1.0 Beta 1"><![CDATA[تم رفض الوصول إلى حساب الفيسبوك الخاص بك. الرجاء التأكد من أن لديك ترخيص وموافقة بوصل التطبيق لبياناتك.]]></phrase>
+  <phrase title="access_to_facebook_account_denied" addon_id="XenForo" version_id="1010031" version_string="1.1.0 Beta 1"><![CDATA[تم رفض الوصول إلى حساب فيس بوك الخاص بك. الرجاء التأكد من أن لديك ترخيص وموافقة بوصل التطبيق لبياناتك.]]></phrase>
   <phrase title="account_confirmation_ip" addon_id="XenForo" version_id="1000270" version_string="1.0.2"><![CDATA[تأكيد حساب عنوان الاي بي]]></phrase>
   <phrase title="account_name_description" addon_id="XenForo" version_id="1020031" version_string="1.2.0 Beta 1"><![CDATA[وصف اسم العضوية]]></phrase>
   <phrase title="account_upgrade" addon_id="XenForo" version_id="1000170" version_string="1.0.1"><![CDATA[ترقية العضوية]]></phrase>
@@ -4971,14 +4971,14 @@ In the default style, it is used to enclose the right column of the message temp
   <phrase title="utc_plus_0300_baghdad" addon_id="XenForo" version_id="1010470" version_string="1.1.4"><![CDATA[(UTC+03:00) نيروبي، بغداد، الكويت، قطر، الرياض]]></phrase>
   <phrase title="utc_plus_0300_kaliningrad" addon_id="XenForo" version_id="1010070" version_string="1.1.0"><![CDATA[(UTC+03:00) كالينينغراد أوبلاست، روسيا]]></phrase>
   <phrase title="utc_plus_0330_tehran" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[(UTC+03:30) Tehran]]></phrase>
-  <phrase title="utc_plus_0400_abu_dhabi" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[(UTC+04:00) Abu Dhabi, Muscat, Tbilisi]]></phrase>
+  <phrase title="utc_plus_0400_abu_dhabi" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[(UTC+04:00) أبوظبي، مسقط، تبليسي]]></phrase>
   <phrase title="utc_plus_0400_baku" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[(UTC+04:00) Baku]]></phrase>
   <phrase title="utc_plus_0400_mauritius" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[(UTC+04:00) Mauritius]]></phrase>
   <phrase title="utc_plus_0400_moscow" addon_id="XenForo" version_id="1010070" version_string="1.1.0"><![CDATA[(UTC+04:00) موسكو وسانت بطرسبورغ ، فولغوغراد]]></phrase>
   <phrase title="utc_plus_0400_yerevan" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[(UTC+04:00) Yerevan]]></phrase>
-  <phrase title="utc_plus_0430_kabul" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[(UTC+04:30) Kabul]]></phrase>
+  <phrase title="utc_plus_0430_kabul" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[(UTC+04:30) كابول]]></phrase>
   <phrase title="utc_plus_0500_tashkent" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[(UTC+05:00) Tashkent, Karachi]]></phrase>
-  <phrase title="utc_plus_0530_chennai" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[(UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi]]></phrase>
+  <phrase title="utc_plus_0530_chennai" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[(UTC+05:30) ، كولكاتا، شيناي، مومباي، نيودلهي]]></phrase>
   <phrase title="utc_plus_0545_kathmandu" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[(UTC+05:45) Kathmandu]]></phrase>
   <phrase title="utc_plus_0600_almaty" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[(UTC+06:00) Almaty, Bishkek, Qyzylorda]]></phrase>
   <phrase title="utc_plus_0600_astana" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[(UTC+06:00) Astana, Dhaka]]></phrase>
@@ -5486,7 +5486,7 @@ To disable all emails:
   <phrase title="you_sure_you_want_to_prefix_x_threads" addon_id="XenForo" version_id="1010031" version_string="1.1.0 Beta 1"><![CDATA[هل أنت متأكد أنك تريد تطبيق البادئة المحددة أدناه على {count} موضوع المحدد ؟]]></phrase>
   <phrase title="you_sure_you_want_to_unlike_this_post" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[هل أنت متأكد بأنك تريد إلغاء إعجابك بهذه المشاركة]]></phrase>
   <phrase title="you_sure_you_want_to_unlike_this_profile_post" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Are you sure you want to unlike this profile post?]]></phrase>
-  <phrase title="you_sure_you_want_to_update_notification_settings_for_all_forums" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[هل انت متأكد من تحديث إعدادات تنبيهاتك البريدية لجميع الاقسام ؟]]></phrase>
+  <phrase title="you_sure_you_want_to_update_notification_settings_for_all_forums" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Are you sure you want to update your email notification settings for all forums?]]></phrase>
   <phrase title="you_sure_you_want_to_update_notification_settings_for_all_threads" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Are you sure you want to update your email notification settings for all threads?]]></phrase>
   <phrase title="you_sure_you_want_to_update_notification_settings_for_all_watched" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Are you sure you want to update your email notification settings for all watched items?]]></phrase>
   <phrase title="you_sure_you_want_to_update_notification_settings_for_one_forum" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Are you sure you want to update your email notification settings for one forum?]]></phrase>
