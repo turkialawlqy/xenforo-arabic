@@ -10,7 +10,7 @@ http://www.xf-ar.com/
 إدارة مشروع الترجمة
 ==============
 
-<a href="https://github.com/turkialawlqy">turkialawlqy</a> ~~> turkialawlqy@gmail.com
+<a href="https://github.com/turkialawlqy">turkialawlqy</a> ~~> turkialawlqy@gmail.com | <a href="http://www.youtube.com/user/turkialawlqy">youtube</a> | <a href="https://www.facebook.com/turkyalawlqy">Facebook</a> | <a href="https://twitter.com/turkialawlqy">twitter</a>
 
 <a href="https://github.com/boussaid">boussaid</a> ~~> NULL
 
