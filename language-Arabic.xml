@@ -419,7 +419,7 @@
   <phrase title="bb_code_help_b_i_u_s_title" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[عريض، مائل، مسطر أو مشطوب - [S] ،[U] ،[I] ،[B]]]></phrase>
   <phrase title="bb_code_help_code_desc" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[عرض نص ( كود برمجي ) من لغات البرمجة.]]></phrase>
   <phrase title="bb_code_help_code_example" addon_id="XenForo" version_id="1010035" version_string="1.1.0 Beta 5"><![CDATA[[CODE]كود عام[/CODE]
-[PHP]echo $hello . 'world';[/PHP]]]></phrase>
+[PHP]echo $hello . 'Welcome For xenForo';[/PHP]]]></phrase>
   <phrase title="bb_code_help_code_title" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[إدراج كود برمجي - [CODE] ،[PHP] ،[HTML]]]></phrase>
   <phrase title="bb_code_help_color_font_size_desc" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[تغيير لون، خط، أو حجم النص]]></phrase>
   <phrase title="bb_code_help_color_font_size_example" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[هذا نص [COLOR=red]أحمر[/COLOR] و [COLOR=#0000cc]أزرق[/COLOR].
@@ -456,7 +456,7 @@
   <phrase title="bb_code_help_url_email_advanced_desc" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[وضع رابط على نص يحول إلى موقع أو بريد إلكتروني]]></phrase>
   <phrase title="bb_code_help_url_email_advanced_example" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[[URL=http://www.example.com]الذهاب إلى الموقع[/URL]
 [EMAIL=example@example.com]راسلني[/EMAIL]]]></phrase>
-  <phrase title="bb_code_help_url_email_advanced_title" addon_id="XenForo" version_id="1000053" version_string="1.0.0 Release Candidate 3"><![CDATA[[URL=<span class="option">link</span>], [EMAIL=<span class="option">address</span>] - Linking (Advanced)]]></phrase>
+  <phrase title="bb_code_help_url_email_advanced_title" addon_id="XenForo" version_id="1000053" version_string="1.0.0 Release Candidate 3"><![CDATA[[URL=<span class="option">رابط</span>], [EMAIL=<span class="option">بريدك الالكتروني</span>] - رابط (متقدم)]]></phrase>
   <phrase title="bb_code_help_url_email_desc" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[طريقة إستعمال الروابط بالنسبة لموقع أو بريد إلكتروني]]></phrase>
   <phrase title="bb_code_help_url_email_example" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[[URL]http://www.example.com[/URL]
 [EMAIL]example@example.com[/EMAIL]]]></phrase>
@@ -480,17 +480,17 @@
   <phrase title="build_content_type" addon_id="XenForo" version_id="1010033" version_string="1.1.0 Beta 3"><![CDATA[بناء حسب النوع]]></phrase>
   <phrase title="by_x" addon_id="XenForo" version_id="1010031" version_string="1.1.0 Beta 1"><![CDATA[بواسطة {name}]]></phrase>
   <phrase title="cache_this_phrase_globally" addon_id="XenForo" version_id="1010470" version_string="1.1.4"><![CDATA[تخزين مؤقت عام لهذه العبارة (Cache this phrase globally)]]></phrase>
-  <phrase title="calculate_names_during_like_import" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Calculate names during 'like' import]]></phrase>
-  <phrase title="callback_class_x_for_option_y_is_not_valid" addon_id="XenForo" version_id="1020031" version_string="1.2.0 Beta 1"><![CDATA[The callback class '{class}' for option '{option}' is not valid.]]></phrase>
-  <phrase title="callback_execution_order" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Callback Execution Order]]></phrase>
-  <phrase title="callback_failed" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Callback failed]]></phrase>
+  <phrase title="calculate_names_during_like_import" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[حساب الأسماء أثناء الاستيراد 'مثل']]></phrase>
+  <phrase title="callback_class_x_for_option_y_is_not_valid" addon_id="XenForo" version_id="1020031" version_string="1.2.0 Beta 1"><![CDATA[إستدعاء '{class}' للخيار '{option}' غير صالح.]]></phrase>
+  <phrase title="callback_execution_order" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[رد تنفيذ الأمر]]></phrase>
+  <phrase title="callback_failed" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[فشل الاستدعاء]]></phrase>
   <phrase title="cancel" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[إلغاء]]></phrase>
   <phrase title="cancelling" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[أستدعاء]]></phrase>
   <phrase title="cancel_and_close_these_controls" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[إغلاق وإلغاء هذه التعديلات ]]></phrase>
   <phrase title="cancel_subscription" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[إلغاء الإشتارك ]]></phrase>
   <phrase title="cannot_have_content_checking_if_tag_without_contentcheck_part" addon_id="XenForo" version_id="1020031" version_string="1.2.0 Beta 1"><![CDATA[لا يمكن  فحص-المحتوى إذا وسمت بدون جزء contentcheck]]></phrase>
-  <phrase title="cannot_merge_thread_redirection_notice" addon_id="XenForo" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[You cannot merge a thread redirection notice with another thread. Please deselect the redirection notice and try again.]]></phrase>
-  <phrase title="can_be_purchased" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Can be purchased]]></phrase>
+  <phrase title="cannot_merge_thread_redirection_notice" addon_id="XenForo" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[لا يمكنك دمج إشعار إعادة توجيه الموضوع مع موضوع آخر. يرجى إلغاء إشعار إعادة التوجيه وحاول مرة أخرى.]]></phrase>
+  <phrase title="can_be_purchased" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[يمكن شراؤها]]></phrase>
   <phrase title="can_not_delete_property_from_master_style" addon_id="XenForo" version_id="1010270" version_string="1.1.2"><![CDATA[ليس من الممكن حذف خاصية ستايل من الستايل الرئيسي باستخدام هذه الأداة.]]></phrase>
   <phrase title="captcha" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[CAPTCHA]]></phrase>
   <phrase title="captcha_question_answers_explain" addon_id="XenForo" version_id="1010032" version_string="1.1.0 Beta 2"><![CDATA[يمكنك إضافة العديد من الإجابات الصحيحة كما تريد.]]></phrase>
