@@ -2158,7 +2158,7 @@ Your callback should return the unique ID of the media being requested, and have
   <phrase title="no_account_specified" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[لا يوجد حساب محدد ]]></phrase>
   <phrase title="no_account_upgrades_can_be_purchased_at_this_time" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[No account upgrades can be purchased at this time. Please check back later.]]></phrase>
   <phrase title="no_add_ons_have_been_installed_yet" addon_id="XenForo" version_id="1000270" version_string="1.0.2"><![CDATA[لم يتم تركيب اي هاك حتى الان ]]></phrase>
-  <phrase title="no_bb_code_media_sites_have_been_added_yet" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[No BB code media sites have been added yet.]]></phrase>
+  <phrase title="no_bb_code_media_sites_have_been_added_yet" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[لم يتم إضافة مواقع bbcode ملتميديا حتى الآن .]]></phrase>
   <phrase title="no_comments_to_display" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[لايوجد تعليقات للعرض]]></phrase>
   <phrase title="no_contact_url" addon_id="XenForo" version_id="1000270" version_string="1.0.2"><![CDATA[تعطيل الاتصال بنا]]></phrase>
   <phrase title="no_create_account_now" addon_id="XenForo" version_id="1020031" version_string="1.2.0 Beta 1"><![CDATA[تسجيل عضو جديد]]></phrase>
@@ -2170,7 +2170,7 @@ Your callback should return the unique ID of the media being requested, and have
   <phrase title="no_gravatar_found_for_specified_email_address" addon_id="XenForo" version_id="0" version_string=""><![CDATA[No Gravatar found for specified email address.]]></phrase>
   <phrase title="no_ips_have_been_banned" addon_id="XenForo" version_id="1010070" version_string="1.1.0"><![CDATA[لا يوجد عناوين آي بي محظورة]]></phrase>
   <phrase title="no_ips_have_been_discouraged" addon_id="XenForo" version_id="1010033" version_string="1.1.0 Beta 3"><![CDATA[لا يوجد آي بي غير مرغوب به]]></phrase>
-  <phrase title="no_ip_information_available" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[No IP address information is available for this content.]]></phrase>
+  <phrase title="no_ip_information_available" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[لا توجد أي معلومات عن عنوان IP لهذا المحتوى .]]></phrase>
   <phrase title="no_ip_logs_for_requested_user" addon_id="XenForo" version_id="1010032" version_string="1.1.0 Beta 2"><![CDATA[لم يتم العثور على سجل الاي بي للعضو المطلوب]]></phrase>
   <phrase title="no_items_have_been_created_yet" addon_id="XenForo" version_id="1010370" version_string="1.1.3"><![CDATA[لم يتم إنشاء أي عناصر جتى الآن.]]></phrase>
   <phrase title="no_items_matched_your_filter" addon_id="XenForo" version_id="1010032" version_string="1.1.0 Beta 2"><![CDATA[لا توجد عناصر تطابق بحثك]]></phrase>
@@ -2202,7 +2202,7 @@ Your callback should return the unique ID of the media being requested, and have
   <phrase title="no_thread_prefixes_available_for_selected_forums" addon_id="XenForo" version_id="1010031" version_string="1.1.0 Beta 1"><![CDATA[لا توجد اختصارات مواضيع متاحة للمنتدى المحدد.]]></phrase>
   <phrase title="no_thread_prefixes_have_been_added_yet" addon_id="XenForo" version_id="1010031" version_string="1.1.0 Beta 1"><![CDATA[لا توجد بادئات موضوع قد اضيفت بعد]]></phrase>
   <phrase title="no_thread_prefix_groups_have_been_added_yet" addon_id="XenForo" version_id="1010031" version_string="1.1.0 Beta 1"><![CDATA[لا توجد مجموعات اختصار قد أضيفت بعد.]]></phrase>
-  <phrase title="no_trophies_have_been_created_yet" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[No trophies have been created yet.]]></phrase>
+  <phrase title="no_trophies_have_been_created_yet" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[لم يتم عمل أي جوائز الى الآن .]]></phrase>
   <phrase title="no_unread_posts_view_recent" addon_id="XenForo" version_id="1020031" version_string="1.2.0 Beta 1"><![CDATA[لا توجد مشاركات غير مقروءة. تستطيع مشاهدة <a href="{link}" rel="nofollow">جميع المشاركات الاخيرة</a> بدلاً من ذلك.]]></phrase>
   <phrase title="no_users_awaiting_approval" addon_id="XenForo" version_id="1010070" version_string="1.1.0"><![CDATA[لا يوجد اعضاء بإنتظار الموافقة]]></phrase>
   <phrase title="no_users_have_custom_permissions" addon_id="XenForo" version_id="1020031" version_string="1.2.0 Beta 1"><![CDATA[لا يوجد اعضاء لهم أذونات خاصة]]></phrase>
@@ -2236,7 +2236,7 @@ Your callback should return the unique ID of the media being requested, and have
   <phrase title="only_when_data_is_provided" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Only when data is provided]]></phrase>
   <phrase title="on_next_page_you_may_apply_settings_to_all_selected_prefixes" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[On the next page, you may apply settings to all the selected prefixes. If you would like to base these settings on an existing prefix, select it here.]]></phrase>
   <phrase title="on_off_check_box" addon_id="XenForo" version_id="1010051" version_string="1.1.0 Release Candidate 1"><![CDATA[صندوق اختيار تشغيل/إيقاف]]></phrase>
-  <phrase title="on_off_check_box_with_text_box" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[On/Off Check Box with Text Box]]></phrase>
+  <phrase title="on_off_check_box_with_text_box" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[صندوق اختيار تشغيل/إيقاف مع صندوق نصي]]></phrase>
   <phrase title="open_in_new_window" addon_id="XenForo" version_id="1000270" version_string="1.0.2"><![CDATA[فتح في نافذة جديدة]]></phrase>
   <phrase title="open_in_overlay" addon_id="XenForo" version_id="1000270" version_string="1.0.2"><![CDATA[فتح هذا الرابط في نافذة جديدة]]></phrase>
   <phrase title="open_quick_navigation" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[فتح الإنتقال السريع]]></phrase>
