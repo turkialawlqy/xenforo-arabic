@@ -4004,7 +4004,7 @@ Its primary function is to provide the content background color.]]></phrase>
   <phrase title="style_property_loginBarCollapsedHeight_description_master" addon_id="XenForo" version_id="1000170" version_string="1.0.1"><![CDATA[The height in pixels of the collapsed login bar.]]></phrase>
   <phrase title="style_property_loginBarCollapsedHeight_master" addon_id="XenForo" version_id="1000170" version_string="1.0.1"><![CDATA[Login Bar Collapsed Height]]></phrase>
   <phrase title="style_property_loginBarForm_description_master" addon_id="XenForo" version_id="1000170" version_string="1.0.1"><![CDATA[Controls the layout and appearance of the form element within the login bar.]]></phrase>
-  <phrase title="style_property_loginBarForm_master" addon_id="XenForo" version_id="1000170" version_string="1.0.1"><![CDATA[Login Form]]></phrase>
+  <phrase title="style_property_loginBarForm_master" addon_id="XenForo" version_id="1000170" version_string="1.0.1"><![CDATA[تسجيل الدخول]]></phrase>
   <phrase title="style_property_loginBarHandle_description_master" addon_id="XenForo" version_id="1000170" version_string="1.0.1"><![CDATA[Controls the appearance of the handle by which the login bar is activated.]]></phrase>
   <phrase title="style_property_loginBarHandle_master" addon_id="XenForo" version_id="1000170" version_string="1.0.1"><![CDATA[Handle]]></phrase>
   <phrase title="style_property_loginBarLink_description_master" addon_id="XenForo" version_id="1000170" version_string="1.0.1"><![CDATA[Textual hyperlinks within the login bar.]]></phrase>
@@ -4030,21 +4030,21 @@ Its primary function is to provide the content background color.]]></phrase>
   <phrase title="style_property_memberListItemAvatar_description_master" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[This property applies to the user avatar shown in member list items.]]></phrase>
   <phrase title="style_property_memberListItemAvatar_master" addon_id="XenForo" version_id="1010032" version_string="1.1.0 Beta 2"><![CDATA[الصورة الرمزية]]></phrase>
   <phrase title="style_property_memberListItemContent_description_master" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Sometimes, info about a post or thread etc. will be shown inside a member list item. This applies styling to that content.]]></phrase>
-  <phrase title="style_property_memberListItemContent_master" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Content Info]]></phrase>
+  <phrase title="style_property_memberListItemContent_master" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[معلومات المحتوى]]></phrase>
   <phrase title="style_property_memberListItemExtendedWidth_description_master" addon_id="XenForo" version_id="1000036" version_string="1.0.0 Beta 6"><![CDATA[Width of fixed column in extended member list items.]]></phrase>
   <phrase title="style_property_memberListItemExtendedWidth_master" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Fixed column width]]></phrase>
-  <phrase title="style_property_memberListItemExtra_description_master" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[On occasions, extra content is added to member list items. Use this to restyle it.]]></phrase>
+  <phrase title="style_property_memberListItemExtra_description_master" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[في بعض الأحيان، يتم إضافة محتوى إضافي إلى عناصر قائمة الأعضاء. استخدم هذا لتصفيف عليه.]]></phrase>
   <phrase title="style_property_memberListItemExtra_master" addon_id="XenForo" version_id="1010032" version_string="1.1.0 Beta 2"><![CDATA[محتوى إضافي]]></phrase>
   <phrase title="style_property_memberListItemGuest_description_master" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Applied in addition to the regular username styling.]]></phrase>
   <phrase title="style_property_memberListItemGuest_master" addon_id="XenForo" version_id="1020031" version_string="1.2.0 Beta 1"><![CDATA[اسم (الضيف)]]></phrase>
   <phrase title="style_property_memberListItemMember_description_master" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Controls the style of the container for everything in the member list item except the user avatar.]]></phrase>
   <phrase title="style_property_memberListItemMember_master" addon_id="XenForo" version_id="1010370" version_string="1.1.3"><![CDATA[منطقة معلومات العضو]]></phrase>
   <phrase title="style_property_memberListItemUserInfo_description_master" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[This property is applied to the contain for all user info underneath the main username link.]]></phrase>
-  <phrase title="style_property_memberListItemUserInfo_master" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[User Info]]></phrase>
+  <phrase title="style_property_memberListItemUserInfo_master" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[معلومات المستخدم]]></phrase>
   <phrase title="style_property_memberListItemUsername_description_master" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Applies to the main username link on member list items.]]></phrase>
-  <phrase title="style_property_memberListItemUsername_master" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Username]]></phrase>
+  <phrase title="style_property_memberListItemUsername_master" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[اسم المستخدم]]></phrase>
   <phrase title="style_property_memberListItemUserTitle_description_master" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[User titles in member list items are styled with this property.]]></phrase>
-  <phrase title="style_property_memberListItemUserTitle_master" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[User Title]]></phrase>
+  <phrase title="style_property_memberListItemUserTitle_master" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[لقب العضو]]></phrase>
   <phrase title="style_property_memberListItem_description_master" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Controls the appearance of the container for member list items.]]></phrase>
   <phrase title="style_property_memberListItem_master" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[List Item Container]]></phrase>
   <phrase title="style_property_menuHeaderSubtitle_description_master" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[The smaller text that sometimes appears below the main menu title.]]></phrase>
@@ -4057,10 +4057,10 @@ Its primary function is to provide the content background color.]]></phrase>
   <phrase title="style_property_menuMinWidth_master" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Minimum Menu Width]]></phrase>
   <phrase title="style_property_menu_description_master" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[The main container for the pop-up part of pop-up menus.]]></phrase>
   <phrase title="style_property_menu_master" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Menu]]></phrase>
-  <phrase title="style_property_messageAvatarHolder_description_master" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Styles the block that surrounds the large avatar for a message author.]]></phrase>
+  <phrase title="style_property_messageAvatarHolder_description_master" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[شكل إطار الصورة الرمزية الكبيرة لكاتب الموضوع.]]></phrase>
   <phrase title="style_property_messageAvatarHolder_master" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Avatar Holder]]></phrase>
   <phrase title="style_property_messageContent_description_master" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[This is used to enclose the message text and any other user-generated content for the message, such as attached files.]]></phrase>
-  <phrase title="style_property_messageContent_master" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Main Content]]></phrase>
+  <phrase title="style_property_messageContent_master" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[المحتوى الرئيسي]]></phrase>
   <phrase title="style_property_messageExtraUserInfo_description_master" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Controls the appearance of the (optional) extra user info that can be displayed under the message poster's avatar and username.]]></phrase>
   <phrase title="style_property_messageExtraUserInfo_master" addon_id="XenForo" version_id="1000070" version_string="1.0.0"><![CDATA[Extra User Info]]></phrase>
   <phrase title="style_property_messageInfo_description_master" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[This element contains the content area of the message template.
