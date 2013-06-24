@@ -2011,26 +2011,26 @@ Your callback should return the unique ID of the media being requested, and have
   <phrase title="month_10" addon_id="XenForo" version_id="1020031" version_string="1.2.0 Beta 1"><![CDATA[أكتوبر]]></phrase>
   <phrase title="month_10_short" addon_id="XenForo" version_id="1020031" version_string="1.2.0 Beta 1"><![CDATA[أكتوبر]]></phrase>
   <phrase title="month_11" addon_id="XenForo" version_id="1020031" version_string="1.2.0 Beta 1"><![CDATA[نوفمبر]]></phrase>
-  <phrase title="month_11_short" addon_id="XenForo" version_id="1020031" version_string="1.2.0 Beta 1"><![CDATA[نوفمبر]]></phrase>
+  <phrase title="month_11_short" addon_id="XenForo" version_id="1020031" version_string="1.2.0 Beta 1"><![CDATA[نونبر]]></phrase>
   <phrase title="month_12" addon_id="XenForo" version_id="1020031" version_string="1.2.0 Beta 1"><![CDATA[ديسمبر]]></phrase>
-  <phrase title="month_12_short" addon_id="XenForo" version_id="1020031" version_string="1.2.0 Beta 1"><![CDATA[ديسمبر]]></phrase>
-  <phrase title="month_1_short" addon_id="XenForo" version_id="1020031" version_string="1.2.0 Beta 1"><![CDATA[يناير]]></phrase>
+  <phrase title="month_12_short" addon_id="XenForo" version_id="1020031" version_string="1.2.0 Beta 1"><![CDATA[دجمبر]]></phrase>
+  <phrase title="month_1_short" addon_id="XenForo" version_id="1020031" version_string="1.2.0 Beta 1"><![CDATA[جانفي]]></phrase>
   <phrase title="month_2" addon_id="XenForo" version_id="1020031" version_string="1.2.0 Beta 1"><![CDATA[فبراير]]></phrase>
-  <phrase title="month_2_short" addon_id="XenForo" version_id="1020031" version_string="1.2.0 Beta 1"><![CDATA[فبراير]]></phrase>
+  <phrase title="month_2_short" addon_id="XenForo" version_id="1020031" version_string="1.2.0 Beta 1"><![CDATA[فيفري]]></phrase>
   <phrase title="month_3" addon_id="XenForo" version_id="1020031" version_string="1.2.0 Beta 1"><![CDATA[مارس]]></phrase>
   <phrase title="month_3_short" addon_id="XenForo" version_id="1020031" version_string="1.2.0 Beta 1"><![CDATA[مارس]]></phrase>
   <phrase title="month_4" addon_id="XenForo" version_id="1020031" version_string="1.2.0 Beta 1"><![CDATA[ابريل]]></phrase>
-  <phrase title="month_4_short" addon_id="XenForo" version_id="1020031" version_string="1.2.0 Beta 1"><![CDATA[ابريل]]></phrase>
+  <phrase title="month_4_short" addon_id="XenForo" version_id="1020031" version_string="1.2.0 Beta 1"><![CDATA[أفريل]]></phrase>
   <phrase title="month_5" addon_id="XenForo" version_id="1020031" version_string="1.2.0 Beta 1"><![CDATA[مايو]]></phrase>
-  <phrase title="month_5_short" addon_id="XenForo" version_id="1020031" version_string="1.2.0 Beta 1"><![CDATA[مايو]]></phrase>
+  <phrase title="month_5_short" addon_id="XenForo" version_id="1020031" version_string="1.2.0 Beta 1"><![CDATA[ماي]]></phrase>
   <phrase title="month_6" addon_id="XenForo" version_id="1020031" version_string="1.2.0 Beta 1"><![CDATA[يونيو]]></phrase>
-  <phrase title="month_6_short" addon_id="XenForo" version_id="1020031" version_string="1.2.0 Beta 1"><![CDATA[يونيو]]></phrase>
+  <phrase title="month_6_short" addon_id="XenForo" version_id="1020031" version_string="1.2.0 Beta 1"><![CDATA[جوان]]></phrase>
   <phrase title="month_7" addon_id="XenForo" version_id="1020031" version_string="1.2.0 Beta 1"><![CDATA[يوليو]]></phrase>
-  <phrase title="month_7_short" addon_id="XenForo" version_id="1020031" version_string="1.2.0 Beta 1"><![CDATA[يوليو]]></phrase>
+  <phrase title="month_7_short" addon_id="XenForo" version_id="1020031" version_string="1.2.0 Beta 1"><![CDATA[جويليه]]></phrase>
   <phrase title="month_8" addon_id="XenForo" version_id="1020031" version_string="1.2.0 Beta 1"><![CDATA[أغسطس]]></phrase>
-  <phrase title="month_8_short" addon_id="XenForo" version_id="1020031" version_string="1.2.0 Beta 1"><![CDATA[أغسطس]]></phrase>
+  <phrase title="month_8_short" addon_id="XenForo" version_id="1020031" version_string="1.2.0 Beta 1"><![CDATA[أوت]]></phrase>
   <phrase title="month_9" addon_id="XenForo" version_id="1020031" version_string="1.2.0 Beta 1"><![CDATA[سبتمبر]]></phrase>
-  <phrase title="month_9_short" addon_id="XenForo" version_id="1020031" version_string="1.2.0 Beta 1"><![CDATA[سبتمبر]]></phrase>
+  <phrase title="month_9_short" addon_id="XenForo" version_id="1020031" version_string="1.2.0 Beta 1"><![CDATA[شتنبر]]></phrase>
   <phrase title="more" addon_id="XenForo" version_id="1010031" version_string="1.1.0 Beta 1"><![CDATA[المزيد]]></phrase>
   <phrase title="more_colors" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[ألوان أخرى]]></phrase>
   <phrase title="more_options" addon_id="XenForo" version_id="1000270" version_string="1.0.2"><![CDATA[الوضع المتقدم]]></phrase>
