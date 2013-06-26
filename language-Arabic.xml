@@ -834,7 +834,7 @@
   <phrase title="cost" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[تكلفة]]></phrase>
   <phrase title="count_messages_in_forum_toward_user_total" addon_id="XenForo" version_id="1010031" version_string="1.1.0 Beta 1"><![CDATA[احتساب مشاركات هذا المنتدى في مجموع مشاركات العضو]]></phrase>
   <phrase title="created_between" addon_id="XenForo" version_id="1020031" version_string="1.2.0 Beta 1"><![CDATA[أنشئ بين]]></phrase>
-  <phrase title="created_by" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Created by]]></phrase>
+  <phrase title="created_by" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[أنشئت بواسطة]]></phrase>
   <phrase title="create_add_on" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[إنشاء إضافة جديدة]]></phrase>
   <phrase title="create_admin_navigation" addon_id="XenForo" version_id="1010032" version_string="1.1.0 Beta 2"><![CDATA[إنشاء عنصر ناف بار إداري جديد]]></phrase>
   <phrase title="create_child" addon_id="XenForo" version_id="1010170" version_string="1.1.1"><![CDATA[إنشاء آخر فرعي]]></phrase>
@@ -2154,7 +2154,7 @@ Your callback should return the unique ID of the media being requested, and have
   <phrase title="not_possible_to_reply_to_messages_not_same_conversation" addon_id="XenForo" version_id="1010370" version_string="1.1.3"><![CDATA[ليس من الممكن الرد على الرسائل التي ليست جزءا من نفس المحادثة.]]></phrase>
   <phrase title="not_set" addon_id="XenForo" version_id="1000270" version_string="1.0.2"><![CDATA[غير محدد]]></phrase>
   <phrase title="not_set_no" addon_id="XenForo" version_id="1010070" version_string="1.1.0"><![CDATA[غير معين (لا)]]></phrase>
-  <phrase title="not_sticky" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Not sticky]]></phrase>
+  <phrase title="not_sticky" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[غير مثبت]]></phrase>
   <phrase title="no_account_specified" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[لا يوجد حساب محدد ]]></phrase>
   <phrase title="no_account_upgrades_can_be_purchased_at_this_time" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[No account upgrades can be purchased at this time. Please check back later.]]></phrase>
   <phrase title="no_add_ons_have_been_installed_yet" addon_id="XenForo" version_id="1000270" version_string="1.0.2"><![CDATA[لم يتم تركيب اي هاك حتى الان ]]></phrase>
@@ -4716,17 +4716,17 @@ In the default style, it is used to enclose the right column of the message temp
   <phrase title="uninstall_add_on" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[حذف الإضافة]]></phrase>
   <phrase title="unknown" addon_id="XenForo" version_id="1010032" version_string="1.1.0 Beta 2"><![CDATA[غير معروف]]></phrase>
   <phrase title="unknown_account" addon_id="XenForo" version_id="1020031" version_string="1.2.0 Beta 1"><![CDATA[عضو غير معروف]]></phrase>
-  <phrase title="unknown_action" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Unknown action]]></phrase>
-  <phrase title="unknown_content" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Unknown Content]]></phrase>
+  <phrase title="unknown_action" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[عملية غير معروفة]]></phrase>
+  <phrase title="unknown_content" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[محتوى غير معروف]]></phrase>
   <phrase title="unknown_function_x" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[وظيفة غير معروفة : {function}]]></phrase>
   <phrase title="unknown_member" addon_id="XenForo" version_id="1010070" version_string="1.1.0"><![CDATA[عضو غير معروف]]></phrase>
   <phrase title="unknown_tag_x" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[كلمة دلالية غير معروفة : {tag}]]></phrase>
   <phrase title="unlike" addon_id="XenForo" version_id="1020031" version_string="1.2.0 Beta 1"><![CDATA[لا يعجبني]]></phrase>
   <phrase title="unlike_post" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[الغاء الاعجاب بالمشاركه]]></phrase>
-  <phrase title="unlike_profile_post" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Unlike Profile Post]]></phrase>
+  <phrase title="unlike_profile_post" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[إلغاء الإعجاب بمشاركة الملف الشخصي]]></phrase>
   <phrase title="unlimited" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[غير محدود]]></phrase>
   <phrase title="unlink" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[إزالة الرابط]]></phrase>
-  <phrase title="unlocked" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Unlocked]]></phrase>
+  <phrase title="unlocked" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[مفتوح]]></phrase>
   <phrase title="unlock_threads" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[فتح الموضوع]]></phrase>
   <phrase title="unmodified" addon_id="XenForo" version_id="1010070" version_string="1.1.0"><![CDATA[غير معدلة]]></phrase>
   <phrase title="unordered_list" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[قائمة عادية]]></phrase>
@@ -4744,8 +4744,8 @@ In the default style, it is used to enclose the right column of the message temp
   <phrase title="unwatch_forum" addon_id="XenForo" version_id="1020031" version_string="1.2.0 Beta 1"><![CDATA[إلغاء متابعة القسم]]></phrase>
   <phrase title="unwatch_thread" addon_id="XenForo" version_id="1020031" version_string="1.2.0 Beta 1"><![CDATA[إلغاء متابعة الموضوع]]></phrase>
   <phrase title="update" addon_id="XenForo" version_id="1000270" version_string="1.0.2"><![CDATA[تحديث المعلومات]]></phrase>
-  <phrase title="update_actions" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Update Actions]]></phrase>
-  <phrase title="update_email_notification_settings" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Update Email Notification Settings]]></phrase>
+  <phrase title="update_actions" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[تحديث العمليات]]></phrase>
+  <phrase title="update_email_notification_settings" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[تحديث خيارات الإشعار بالبريد]]></phrase>
   <phrase title="update_moderation_queue" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[تحديث قائمة الانتظار ]]></phrase>
   <phrase title="update_permissions" addon_id="XenForo" version_id="1000270" version_string="1.0.2"><![CDATA[حفظ]]></phrase>
   <phrase title="update_report" addon_id="XenForo" version_id="1000270" version_string="1.0.2"><![CDATA[حفظ الأجراءات]]></phrase>
