@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<language title="Arabic" date_format="j M Y" time_format="H:i" decimal_point="." thousands_separator="," language_code="ar-AR" text_direction="RTL" addon_id="XenForo">
+<language title="Arabic" date_format="j F Y" time_format="H:i" decimal_point="." thousands_separator="," language_code="ar-AR" text_direction="RTL" addon_id="XenForo">
   <phrase title="1_day_ago" addon_id="XenForo" version_id="1010170" version_string="1.1.1"><![CDATA[منذ يوم مضى]]></phrase>
   <phrase title="1_month_ago" addon_id="XenForo" version_id="1010031" version_string="1.1.0 Beta 1"><![CDATA[منذ شهر مضى]]></phrase>
   <phrase title="1_more_message" addon_id="XenForo" version_id="1000053" version_string="1.0.0 Release Candidate 3"><![CDATA[عرض جميع الرسائل]]></phrase>
@@ -2109,7 +2109,7 @@ Example regular expression with 'id' named sub-pattern:<br />
   <phrase title="news_feed_profile_post_insert" addon_id="XenForo" version_id="1010370" version_string="1.1.3"><![CDATA[{usernamePoster} ترك رسالة على الملف الشخصي لـ {usernameReceiver}.]]></phrase>
   <phrase title="news_feed_thread_insert" addon_id="XenForo" version_id="1000270" version_string="1.0.2"><![CDATA[{username} كتب موضوع جديد]]></phrase>
   <phrase title="news_feed_thread_update" addon_id="XenForo" version_id="1010370" version_string="1.1.3"><![CDATA[{username} حدث موضوعه {threadTitle}.]]></phrase>
-  <phrase title="news_feed_user_avatar_change" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[تغير الإسم إلى {username} ]]></phrase>
+  <phrase title="news_feed_user_avatar_change" addon_id="XenForo" version_id="1020034" version_string="1.2.0 Beta 4"><![CDATA[{username} لديه صورة جديدة.]]></phrase>
   <phrase title="news_feed_user_homepage" addon_id="XenForo" version_id="1000053" version_string="1.0.0 Release Candidate 3"><![CDATA[{username} تغير الموقع الشخصي ]]></phrase>
   <phrase title="news_feed_user_location_changed" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[{username} إنتقل من {oldLocation} إلى {newLocation}.]]></phrase>
   <phrase title="news_feed_user_location_set" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[{username} تغير مكان الإقامه وجعله {newLocation}.]]></phrase>
@@ -3175,7 +3175,7 @@ Callback arguments:
   <phrase title="receive_your_news_feed" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[إستلام خلاصة عن أخبارك]]></phrase>
   <phrase title="received_by" addon_id="XenForo" version_id="1010070" version_string="1.1.0"><![CDATA[وردت بواسطة]]></phrase>
   <phrase title="receiving_member" addon_id="XenForo" version_id="1000270" version_string="1.0.2"><![CDATA[استقبال عضو]]></phrase>
-  <phrase title="recent_activity" addon_id="XenForo" version_id="1010370" version_string="1.1.3"><![CDATA[أحدث نشاط]]></phrase>
+  <phrase title="recent_activity" addon_id="XenForo" version_id="1020034" version_string="1.2.0 Beta 4"><![CDATA[آخر النشاطات]]></phrase>
   <phrase title="recent_content_by_x" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[احدث محتوى بواسطة {name}]]></phrase>
   <phrase title="recent_posts" addon_id="XenForo" version_id="1020031" version_string="1.2.0 Beta 1"><![CDATA[المشاركات الأخيرة]]></phrase>
   <phrase title="recent_spam_cleaning" addon_id="XenForo" version_id="1000270" version_string="1.0.2"><![CDATA[اخر تبليغ للمشاركات المزعجة]]></phrase>
@@ -3729,6 +3729,7 @@ If you are not sure this is the behavior you want, select 'Revoke' instead.
   <phrase title="style_property_bbCodeCode_master" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[BB Code Pre / Code]]></phrase>
   <phrase title="style_property_bbCodeQuoteAttribution_description_master" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Controls the appearance of the attribution row that sits above a quoted message.]]></phrase>
   <phrase title="style_property_bbCodeQuoteAttribution_master" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Quote Attribution Block]]></phrase>
+  <phrase title="style_property_bbCodeQuoteMaxHeight_master" addon_id="XenForo" version_id="1020034" version_string="1.2.0 Beta 4"><![CDATA[الإرتفاع الأقصى لبلوك الإقتباس]]></phrase>
   <phrase title="style_property_bbCodeQuoteMessage_description_master" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[This styling applies to the message area of [QUOTE] blocks, styling the actual quoted message itself.]]></phrase>
   <phrase title="style_property_bbCodeQuoteMessage_master" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[BB Code Quote Message]]></phrase>
   <phrase title="style_property_bbCodeQuote_description_master" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[This definition is used together with the BB Code Block definition to provide styling for [QUOTE] blocks.]]></phrase>
@@ -4193,6 +4194,8 @@ In the default style, it is used to enclose the right column of the message temp
   <phrase title="style_property_overlayCloseControl_master" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Overlay Close Gadget]]></phrase>
   <phrase title="style_property_overlayCloseSpeed_description_master" addon_id="XenForo" version_id="1000013" version_string="1.0.0 Alpha 3"><![CDATA[Speed in milliseconds for overlays to fade out. Default: 100.]]></phrase>
   <phrase title="style_property_overlayCloseSpeed_master" addon_id="XenForo" version_id="1000013" version_string="1.0.0 Alpha 3"><![CDATA[Overlay Closing Speed]]></phrase>
+  <phrase title="style_property_overlayFormWidth_description_master" addon_id="XenForo" version_id="1020034" version_string="1.2.0 Beta 4"><![CDATA[التحكم بأقصى عرض للنماذج باستخدام الكلاس (.xenForm) حين عرضها في وضعية الإنبثاق.]]></phrase>
+  <phrase title="style_property_overlayFormWidth_master" addon_id="XenForo" version_id="1020034" version_string="1.2.0 Beta 4"><![CDATA[العرض الأقصى للنماذج في حالة الإنبثاق.]]></phrase>
   <phrase title="style_property_overlayMaskColor_description_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[]]></phrase>
   <phrase title="style_property_overlayMaskColor_master" addon_id="XenForo" version_id="1000013" version_string="1.0.0 Alpha 3"><![CDATA[Overlay Mask Color]]></phrase>
   <phrase title="style_property_overlayMaskOpacity_description_master" addon_id="XenForo" version_id="1000013" version_string="1.0.0 Alpha 3"><![CDATA[Controls the degree of transparency of the mask applied to the background content when an overlay is shown. Default: 0.6; fully transparent: 0; fully opaque: 1.]]></phrase>
@@ -4222,8 +4225,11 @@ In the default style, it is used to enclose the right column of the message temp
   <phrase title="style_property_pageNav_description_master" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[The container for the page navigation element, normally controls overall elements such as font size etc.]]></phrase>
   <phrase title="style_property_pageNav_master" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[PageNav Container]]></phrase>
   <phrase title="style_property_pageWidthResponsiveMedium_description_master" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Modifications to the page width at the medium responsive width point.]]></phrase>
+  <phrase title="style_property_pageWidthResponsiveMedium_master" addon_id="XenForo" version_id="1020034" version_string="1.2.0 Beta 4"><![CDATA[عرض صفحة Responsive (متوسط)]]></phrase>
   <phrase title="style_property_pageWidthResponsiveNarrow_description_master" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[]]></phrase>
+  <phrase title="style_property_pageWidthResponsiveNarrow_master" addon_id="XenForo" version_id="1020034" version_string="1.2.0 Beta 4"><![CDATA[عرض صفحة Responsive (ضيق)]]></phrase>
   <phrase title="style_property_pageWidthResponsiveWide_description_master" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Modifications to the page width at the wide responsive width point.]]></phrase>
+  <phrase title="style_property_pageWidthResponsiveWide_master" addon_id="XenForo" version_id="1020034" version_string="1.2.0 Beta 4"><![CDATA[عرض صفحة Responsive (عريض)]]></phrase>
   <phrase title="style_property_pageWidth_description_master" addon_id="XenForo" version_id="1020033" version_string="1.2.0 Beta 3"><![CDATA[مع هذه الخاصية يتم التحكم في عرض الصفحة . استخدمها للتبديل بين التصاميم الممتدة والثابتة.
 مثال لستايل ممتد: width: auto; margin: 0 20px;
 مثال لستايل ثابت: width: 960px; margin: auto;
